@@ -1,2 +1,2 @@
 # AR ZONE
-Experience the awesome augmented reality.
+Experience the awesome augmented reality :)
