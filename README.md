@@ -1,2 +1,2 @@
-# AR ZONE
+# AR CUBE
 Experience the awesome augmented reality.
