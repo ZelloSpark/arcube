@@ -1,6 +1,6 @@
 {
-  "versionNumber": 2,
-  "notifyTill" : 2,
-  "displayText" : "Hi there :)\nLet's G\nwowo",
-  "required" : 1
+  "versionNumber": 0,
+  "notifyTill" : 0,
+  "displayText" : "AR Cube",
+  "required" : 0
 }
