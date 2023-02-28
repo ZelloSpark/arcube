@@ -1,6 +1,6 @@
 {
-  "versionNumber": 0,
-  "notifyTill" : 0,
-  "displayText" : "AR Cube",
-  "required" : 0
+  "versionNumber": 1,
+  "notifyTill" : 1,
+  "displayText" : "A new update is available!\n• New AR objects\n• Gyroscope integration\n• Move objects anywhere",
+  "required" : 1
 }
