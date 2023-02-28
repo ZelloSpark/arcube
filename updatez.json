@@ -1,6 +1,6 @@
 {
   "versionNumber": 1,
   "notifyTill" : 1,
-  "displayText" : "A new update is available!\n• New AR objects\n• No image target required\n• Gyroscope enabled\n• Move objects anywhere",
+  "displayText" : "A new update is available!\n• New AR objects\n• Gyroscope enabled\n• Move objects anywhere",
   "required" : 1
 }
